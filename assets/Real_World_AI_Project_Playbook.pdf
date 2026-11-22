@@ -1,0 +1,603 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R] /Count 20 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1457 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (BUILD SOMETHING REAL.) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 667 Td (The Real-World AI Project Playbook) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 640 Td (Created by productwithsasi | November 2026 | Version 1.0) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 613 Td (A free, beginner-friendly guide for building useful AI projects from everyday) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 596 Td (problems.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 569 Td (Inside: 8-step workflow, research templates, project design, AI models, voice agents,) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 542 Td (copy-ready prompts, testing checklists, deployment and a seven-day sprint.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 515 Td (START WITH A REAL PROBLEM. BUILD ONE WORKING EXPERIENCE.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 488 Td (Use the companion website to copy PROJECT_DESIGN.md and five other starter files.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 461 Td (Independent educational resource. Always verify model prices and free-tier limits.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (1 / 20) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 1859 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (01 / THE EIGHT-STEP ROADMAP) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 667 Td (01. SPOT A REAL PROBLEM: Observe repeated friction, workarounds, confusion or cost.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 640 Td (02. VALIDATE THE NEED: Speak to people affected and observe their current process.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 613 Td (03. DEFINE A SMALL MVP: Pick one user, one goal and one measurable outcome.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 586 Td (04. WRITE PROJECT_DESIGN.md: Capture flows, scope, architecture, risks and tests.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 559 Td (05. CHOOSE YOUR STACK: Select the simplest interface, model, tools and voice layer.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 532 Td (06. BUILD ONE WORKING PATH: Get a real end-to-end flow working before polishing.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 505 Td (07. TEST FAILURE CASES: Check accuracy, latency, costs, privacy and fallback.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 478 Td (08. PUBLISH AND EXPLAIN: Share a demo, README, video and honest limitations.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 451 Td (GOLDEN RULE: Do not start by asking which AI model to use.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (Start by asking which problem is painful enough to be worth solving.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 397 Td (A realistic first project is a narrow prototype built over 7-14 days.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (2 / 20) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1924 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (02 / FIND A REAL-WORLD PROBLEM) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 667 Td (Great AI project ideas often come from repeated inconvenience.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 640 Td (Notice moments when people compare options manually, copy information, wait) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 613 Td (on hold, repeat the same answers or struggle with unclear processes.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 586 Td (Keep a problem diary with: Who? When? What happened? What did they try?) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 559 Td (Record frequency, impact and a real observation rather than assuming demand.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 532 Td (EXAMPLE 1: Compare full food bills rather than only the displayed item price.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 505 Td (EXAMPLE 2: Help residents understand a complex utility or bank statement.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 478 Td (EXAMPLE 3: Make job discovery easier across multiple employer career portals.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 451 Td (EXAMPLE 4: Help small shops handle recurring questions in Tamil and English.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (PROBLEM STATEMENT: For [user] in [situation], [friction] makes it harder to) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 397 Td (achieve [goal]. They currently [workaround], causing [impact].) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 370 Td (Do not mention an AI chatbot in the problem statement. Diagnose before solving.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (3 / 20) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 1674 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (03 / VALIDATE BEFORE DESIGNING) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 667 Td (Speak to three to five relevant people for an early qualitative check.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 640 Td (Do not treat five interviews as a representative market survey.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 613 Td (ASK: Tell me about the last time this happened.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 586 Td (ASK: What were you trying to do, and what did you do first?) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 559 Td (ASK: Where did you get stuck? What workaround did you use?) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 532 Td (ASK: How often does it occur? What does it cost you?) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 505 Td (ASK: Can you show me the existing process?) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 478 Td (Capture observations and direct quotes separately from your assumptions.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 451 Td (Examine existing apps and manual alternatives before designing features.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (Proceed if there is repeated, meaningful friction and a feasible improvement.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 397 Td (Revise or stop when the evidence does not support the idea.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (4 / 20) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 1664 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (04 / SCOPE A SMALL MVP) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 667 Td (An MVP is the smallest complete experience that tests an important claim.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 640 Td (Choose one target user, one core job and one measurable success criterion.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 613 Td (IN SCOPE: A working journey from user input to a useful verified result.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 586 Td (OUT OF SCOPE: Multiple agents, payments, real calls and advanced integrations) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 559 Td (unless the chosen problem cannot be tested without them.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 532 Td (Example: Show a transparent four-option comparison before automating orders.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 505 Td (Label estimated prices, mocked tools and simulated confirmations.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 478 Td (Track success: Can the user finish the task and understand the recommendation?) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 451 Td (An attractive interface is not a substitute for a working end-to-end flow.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (Use a realistic set of sample data when live APIs are not available.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (5 / 20) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 1749 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (05 / WRITE PROJECT_DESIGN.md) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 667 Td (PROJECT_DESIGN.md is your shared brief for teammates and AI coding assistants.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 640 Td (Include the project name, problem, target user and evidence.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 613 Td (Describe the measurable goal and what success means.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 586 Td (Define MVP features, exclusions and one essential user journey.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 559 Td (Specify data sources: live API, cached records or clearly labelled mock data.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 532 Td (Describe the AI task, tool permissions, API cost and model trade-offs.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 505 Td (Draw an architecture: Frontend -> backend/agent -> model/tools -> result.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 478 Td (List data privacy rules, retention, risks, errors and human fallback.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 451 Td (Write acceptance tests with observable expected outcomes.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (Use the companion website to copy the complete editable Markdown template.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 397 Td (Do not pass unvalidated assumptions to a coding model as established facts.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (6 / 20) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 1803 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (06 / PROJECT DESIGN CHECKLIST) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 667 Td (RESEARCH: Record what you observed, who is affected and unresolved questions.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 640 Td (USER JOURNEY: List each user and system action, including permission points.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 613 Td (INTEGRATIONS: Name each external service and the exact data required.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 586 Td (FRESHNESS: State when prices, availability or facts were last checked.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 559 Td (PRIVACY: Avoid storing identifiers, recordings or payment data unnecessarily.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 532 Td (COSTS: Estimate model calls, audio minutes, API quotas and hosting.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 505 Td (ACCESSIBILITY: Check keyboard navigation, readable text and mobile layout.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 478 Td (FAILURES: Prepare for missing inputs, API errors, timeouts and stale data.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 451 Td (PERMISSIONS: Obtain explicit approval before calls, messages, purchases or orders.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (TESTING: Define one happy path and several realistic failure paths.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 397 Td (DELIVERY: Include README, screenshots, a demo and known limitations.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (7 / 20) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 18 0 R >>
+endobj
+18 0 obj
+<< /Length 1682 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (07 / CHOOSE AN AI ARCHITECTURE) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 667 Td (RULE-BASED: Best when the logic is fixed and does not need a language model.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 640 Td (LLM ASSISTANT: Useful for explanation, summarisation and flexible language.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 613 Td (RETRIEVAL + LLM: Useful when answers should refer to a verified knowledge base.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 586 Td (TOOL-USING AGENT: Suitable when a model chooses among approved read or action) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 559 Td (tools, while respecting confirmations and real tool responses.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 532 Td (A complex multi-agent design is not automatically better than one clear flow.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 505 Td (Use deterministic code for amounts, totals, taxes and eligibility calculations.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 478 Td (Only give the model the permissions required for the task.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 451 Td (External actions should be visible, reversible where possible and confirmed.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (Run tests against hallucinations and misleading simulated completions.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (8 / 20) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 20 0 R >>
+endobj
+20 0 obj
+<< /Length 1755 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (08 / VOICE AI ARCHITECTURE) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 667 Td (OPTION A: Cascaded pipeline. Microphone -> speech-to-text -> LLM -> text-to-speech.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 640 Td (Advantages: Easy component swapping and visible transcripts for debugging.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 613 Td (Trade-offs: Multiple stages can add latency and recognition errors.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 586 Td (OPTION B: Realtime speech-to-speech models.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 559 Td (Advantages: Natural timing, interruptions and conversational audio in one model.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 532 Td (Trade-offs: Availability, pricing and platform constraints vary by provider.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 505 Td (For Tamil and English, test natural code-switching and pronunciation.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 478 Td (Measure response latency, background noise handling and interruption recovery.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 451 Td (Confirm important names, prices and external actions aloud.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (Offer text input or a human handoff when audio fails.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 397 Td (Free voice frameworks do not guarantee free telephony or deployment.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (9 / 20) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 22 0 R >>
+endobj
+22 0 obj
+<< /Length 1714 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (09 / VOICE TOOLS AND MODELS) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 667 Td (ELEVENLABS: Voice generation and conversational agent products.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 640 Td (Docs and plans: https://elevenlabs.io/) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 613 Td (LIVEKIT AGENTS: Framework for real-time agent applications.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 586 Td (Docs: https://docs.livekit.io/agents/) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 559 Td (PIPECAT: Open-source voice and multimodal agent pipelines.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 532 Td (Repository: https://github.com/pipecat-ai/pipecat) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 505 Td (OPENAI WHISPER: Open-source speech recognition implementation.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 478 Td (Repository: https://github.com/openai/whisper) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 451 Td (GOOGLE AI STUDIO: Experiment with supported Gemini multimodal models.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (Site: https://aistudio.google.com/) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 397 Td (Verify each provider's current supported languages, prices and usage limits.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 370 Td (Test with real speakers rather than relying only on a model feature list.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (10 / 20) Tj ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 24 0 R >>
+endobj
+24 0 obj
+<< /Length 1673 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (10 / LOW-COST BUILDER STACK) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 667 Td (DESIGN: Figma for flows, wireframes, prototyping and handoff.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 640 Td (AI EXPERIMENTS: Google AI Studio for selected Gemini models.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 613 Td (LOCAL MODELS: Ollama for supported local models on capable devices.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 586 Td (OPEN MODELS: Hugging Face for models, datasets and examples.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 559 Td (VOICE: ElevenLabs, LiveKit, Pipecat and Whisper.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 532 Td (CODE: GitHub for version control, pull requests and READMEs.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 505 Td (STATIC DEPLOYMENT: GitHub Pages or Vercel.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 478 Td (DATABASE/BACKEND: Supabase for supported hosted services.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 451 Td (Use free plans for learning where available, but check current restrictions.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (Never put private API keys in front-end JavaScript or public repositories.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 397 Td (Record expected costs before calling a paid model or voice service.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (11 / 20) Tj ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 26 0 R >>
+endobj
+26 0 obj
+<< /Length 1648 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (11 / COPY-READY RESEARCH PROMPTS) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 667 Td (PROMPT A: Act as a product researcher. I observed [friction] affecting [user].) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 640 Td (Ask ten questions about frequency, impact, workaround and alternatives.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 613 Td (Do not propose AI features until the problem is understood.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 586 Td (PROMPT B: For [problem], create a neutral 15-minute interview guide.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 559 Td (Ask about the last real incident, not hypothetical future preferences.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 532 Td (Include an evidence table and a clear proceed/revise/stop decision rule.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 505 Td (PROMPT C: Compare the user's current workflow with existing solutions.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 478 Td (Find missing evidence and label any unverified assumptions.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 451 Td (PROMPT D: Convert the observations into one user journey and an MVP scope.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (Use a single measurable outcome and list what not to build.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (12 / 20) Tj ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 28 0 R >>
+endobj
+28 0 obj
+<< /Length 1660 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (12 / COPY-READY BUILD PROMPTS) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 667 Td (PROMPT E: Turn [research notes] into PROJECT_DESIGN.md.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 640 Td (Include goal, audience, evidence, user flow, data, architecture, permissions,) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 613 Td (privacy, failure states, acceptance criteria and open questions.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 586 Td (PROMPT F: Read PROJECT_DESIGN.md first. Summarise a tiny implementation plan.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 559 Td (Build only the first complete happy path and describe the changed files.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 532 Td (PROMPT G: Map the agent goal [goal] through input, tools, verification,) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 505 Td (permission, result, failures, user confirmation and human fallback.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 478 Td (PROMPT H: Generate realistic tests covering API errors, stale data,) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 451 Td (noisy speech, Tamil-English switching, privacy, accessibility and costs.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (Never invent successful calls, payments, messages or order confirmations.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (13 / 20) Tj ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 30 0 R >>
+endobj
+30 0 obj
+<< /Length 1517 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (13 / REPOSITORY STRUCTURE) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 667 Td (my-real-world-ai-project/) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 640 Td (README.md) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 613 Td (PROJECT_DESIGN.md) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 586 Td (PROBLEM_STATEMENT.md) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 559 Td (USER_RESEARCH.md) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 532 Td (AGENT_WORKFLOW.md) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 505 Td (SYSTEM_PROMPT.md) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 478 Td (TEST_CASES.md) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 451 Td (src/ # Application source) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (public/ # Static assets) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 397 Td (tests/ # Repeatable checks) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 370 Td (.env.example # Variable names only, NO secrets) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 343 Td (Put setup steps and known limitations in README.md.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 316 Td (Use small, clear commits. Keep your API credentials outside Git.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (14 / 20) Tj ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 32 0 R >>
+endobj
+32 0 obj
+<< /Length 1617 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (14 / DESIGN THE AGENT WORKFLOW) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 667 Td (1. USER REQUEST: Capture an explicit goal and missing details.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 640 Td (2. DATA RETRIEVAL: Consult verified approved sources where available.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 613 Td (3. ANALYSIS: Perform arithmetic and business rules in code.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 586 Td (4. RECOMMENDATION: Explain options and trade-offs, not just one answer.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 559 Td (5. USER REVIEW: Show the exact intended external action.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 532 Td (6. CONFIRMATION: Ask before calling, ordering, sending or paying.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 505 Td (7. TOOL EXECUTION: Use a real integration and record its actual result.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 478 Td (8. FAILURE FALLBACK: Show what failed and offer manual alternatives.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 451 Td (9. HONEST FEEDBACK: Never show success when only a simulation occurred.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (VOICE: Include a repeat-back for names, addresses, amounts and consent.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (15 / 20) Tj ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 34 0 R >>
+endobj
+34 0 obj
+<< /Length 1690 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (15 / SYSTEM PROMPT SKELETON) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 667 Td (You are [agent name], helping [user] achieve [specific goal].) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 640 Td (Use clear, simple language appropriate to the user.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 613 Td (Ask a short clarifying question when required details are missing.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 586 Td (Prefer verified tool results over guesses or unverified assumptions.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 559 Td (Say when prices, facts or integrations are estimated or simulated.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 532 Td (Available tools: [list tool name, purpose and limitations].) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 505 Td (Read-only permissions: [list]. Action permissions: [list].) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 478 Td (External calls, messages, orders and payments require explicit approval.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 451 Td (Never report an action as completed without real tool confirmation.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (If a tool fails, explain it and offer a text or human fallback.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 397 Td (Do not expose unnecessary private data or API credentials.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (16 / 20) Tj ET
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 36 0 R >>
+endobj
+36 0 obj
+<< /Length 1702 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (16 / TEST WITH REAL SCENARIOS) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 667 Td (TEST 1: Normal input completes the main user flow.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 640 Td (TEST 2: Missing details trigger a helpful clarifying question.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 613 Td (TEST 3: Unavailable API displays a useful failure and fallback.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 586 Td (TEST 4: Stale or conflicting information is clearly labelled.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 559 Td (TEST 5: External action requests require explicit confirmation.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 532 Td (TEST 6: Mocked integrations never claim a real-world success.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 505 Td (TEST 7: Tamil-English switching works or asks for clarification.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 478 Td (TEST 8: Noisy voice or misrecognition is handled gracefully.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 451 Td (TEST 9: Small screens, keyboard access and readable contrast work.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 424 Td (TEST 10: Latency and estimated usage costs are recorded.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 397 Td (Keep a TEST_CASES.md table of expected versus observed results.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (17 / 20) Tj ET
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 38 0 R >>
+endobj
+38 0 obj
+<< /Length 1626 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (17 / DEPLOY AND SHARE) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 667 Td (1. Put code and templates in a clean public GitHub repository.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 640 Td (2. Add a clear README with goal, setup, demo, screenshots and limitations.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 613 Td (3. Remove secrets, credentials and sensitive personal data.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 586 Td (4. Choose a deployment platform that fits the project: Vercel or GitHub Pages) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 559 Td (for static sites; a backend host for API and voice agent services.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 532 Td (5. Configure environment variables on the platform, not in source.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 505 Td (6. Test all links and flows on mobile, desktop and slow connections.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 478 Td (7. Confirm whether each integration is live, limited, paid or simulated.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 451 Td (8. Share a short case study: problem -> evidence -> design -> demo -> learnings.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (9. Ask users for specific feedback on the actual outcome.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (18 / 20) Tj ET
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 40 0 R >>
+endobj
+40 0 obj
+<< /Length 1570 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (18 / SEVEN-DAY BEGINNER SPRINT) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 667 Td (DAY 1: Observe a problem. Interview people. Write PROBLEM_STATEMENT.md.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 640 Td (DAY 2: Record evidence, map existing alternatives and choose one user flow.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 613 Td (DAY 3: Write PROJECT_DESIGN.md, acceptance criteria and a simple wireframe.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 586 Td (DAY 4: Implement the first end-to-end happy path using a simple stack.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 559 Td (DAY 5: Add failure messages, tool boundaries and meaningful test cases.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 532 Td (DAY 6: Test on mobile, improve accessibility and measure latency/cost.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 505 Td (DAY 7: Deploy, document limitations and record a short demonstration.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 478 Td (If the idea is too large, reduce scope instead of adding more models.) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 451 Td (A successful project shows one useful working experience, not many screens.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (19 / 20) Tj ET
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 43 0 R /F2 44 0 R >> >> /Contents 42 0 R >>
+endobj
+42 0 obj
+<< /Length 1746 >>
+stream
+0.039 0.400 0.761 rg 0 757 612 35 re f
+BT /F2 10 Tf 1 1 1 rg 44 770 Td (PRODUCTWITHSASI / FREE AI PROJECT PLAYBOOK) Tj ET
+0.10 0.14 0.20 rg
+BT /F2 22 Tf 44 706 Td (19 / RESOURCES AND NEXT STEPS) Tj ET
+0.83 0.90 0.98 RG 44 691 m 568 691 l S
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 667 Td (Google AI Studio: https://aistudio.google.com/) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 640 Td (ElevenLabs: https://elevenlabs.io/) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 613 Td (LiveKit Agents: https://docs.livekit.io/agents/) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 586 Td (Pipecat: https://github.com/pipecat-ai/pipecat) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 559 Td (Whisper: https://github.com/openai/whisper) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 532 Td (Ollama: https://ollama.com/) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 505 Td (Hugging Face: https://huggingface.co/) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 478 Td (GitHub: https://github.com/) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 451 Td (Vercel: https://vercel.com/) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 424 Td (GitHub Pages: https://docs.github.com/en/pages) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 397 Td (Figma: https://www.figma.com/) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 370 Td (Supabase: https://supabase.com/) Tj ET
+BT /F1 11 Tf 0.19 0.26 0.34 rg 48 343 Td (Get the copyable Markdown templates and prompt cards on the companion site.) Tj ET
+BT /F2 11 Tf 0.039 0.400 0.761 rg 48 316 Td (Created by productwithsasi. Build small. Test with people. Share what works.) Tj ET
+0.82 0.87 0.92 RG 44 52 m 568 52 l S
+BT /F1 9 Tf 0.38 0.44 0.51 rg 44 35 Td (Created by productwithsasi  |  November 2026  |  Educational resource) Tj ET
+BT /F2 9 Tf 0.039 0.400 0.761 rg 539 35 Td (20 / 20) Tj ET
+endstream
+endobj
+43 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+44 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 45
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000246 00000 n 
+0000000384 00000 n 
+0000001892 00000 n 
+0000002030 00000 n 
+0000003940 00000 n 
+0000004078 00000 n 
+0000006053 00000 n 
+0000006192 00000 n 
+0000007918 00000 n 
+0000008058 00000 n 
+0000009774 00000 n 
+0000009914 00000 n 
+0000011715 00000 n 
+0000011855 00000 n 
+0000013710 00000 n 
+0000013850 00000 n 
+0000015584 00000 n 
+0000015724 00000 n 
+0000017531 00000 n 
+0000017671 00000 n 
+0000019437 00000 n 
+0000019577 00000 n 
+0000021302 00000 n 
+0000021442 00000 n 
+0000023142 00000 n 
+0000023282 00000 n 
+0000024994 00000 n 
+0000025134 00000 n 
+0000026703 00000 n 
+0000026843 00000 n 
+0000028512 00000 n 
+0000028652 00000 n 
+0000030394 00000 n 
+0000030534 00000 n 
+0000032288 00000 n 
+0000032428 00000 n 
+0000034106 00000 n 
+0000034246 00000 n 
+0000035868 00000 n 
+0000036008 00000 n 
+0000037806 00000 n 
+0000037877 00000 n 
+trailer
+<< /Size 45 /Root 1 0 R >>
+startxref
+37953
+%%EOF
